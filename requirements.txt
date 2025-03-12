@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn==0.23.2
+pydantic==2.4.2
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+alembic==1.12.1
+langchain==0.1.0
+langchain-core==0.1.10
+langchain-community==0.0.13
+langgraph==0.0.20
+google-auth-oauthlib==1.0.0
+google-auth-httplib2==0.1.0
+google-api-python-client==2.108.0 
